@@ -1,0 +1,9 @@
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\bin\Debug\ImageDownloader.dll
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\bin\Debug\ImageDownloader.pdb
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.dll
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.pdb
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\eduardo\Documents\GitHub\image-downloader\ImageDownloader\ImageDownloader\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
